@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 133 133"
+   version="1.1"
+   id="svg4032"
+   sodipodi:docname="iconwhitefitness.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   width="133"
+   height="133"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4036" />
+  <sodipodi:namedview
+     id="namedview4034"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.9172933"
+     inkscape:cx="99.921391"
+     inkscape:cy="68.556701"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4032" />
+  <rect
+     style="fill:#67c95d;fill-opacity:1;stroke:#67c95d;stroke-width:22.6706;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6116"
+     width="104.56239"
+     height="102.8485"
+     x="14.904347"
+     y="15.190441" />
+  <g
+     id="g12678"
+     transform="matrix(0.92472914,0,0,0.926611,-142.65871,5.4056359)">
+    <path
+       fill="#67c95d"
+       d="m 270.23329,73.657108 h 6 v -24 h -6 c -1,-9 -5,-13 -10,-19.999997 -3,-4 -2,-10 -5,-14 -7,-10.0000001 -20,-8.0000001 -30,-8.0000001 -7,0 -15,-1 -21,4.0000001 -5,5 -4,11 -7,17 -3,5 -8,6.999997 -10,12.999997 -4,12 -1,31 -1,44 0,10 6,13 11,21.000002 3,5 2,11 6,16 9,8 37,8 47,2 7,-4 6,-10 9,-17 l 8,-11.000002 c 4,-7 3,-15 3,-23 z"
+       id="path11528"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       fill="#fdfdfd"
+       d="m 210.23329,25.657111 h 36 c -4,-10 -32,-10 -36,0 m -3,12.999997 c -14,4 -9,28 -9,39 0,5 -1,11 3,15 6,9.000002 38,7 48,4 14,-4 9,-28 9,-39 0,-5 1,-11 -3,-15 -6,-8.999997 -38,-7 -48,-4 m 3,71.000002 c 4,10 32,10 36,0 z"
+       id="path11530"
+       style="fill:#67c95d;fill-opacity:1" />
+  </g>
+</svg>
